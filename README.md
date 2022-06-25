@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native, Blockchain**
 
-- 📫 How to reach me **abdennadher.tarek@esprit.tn**
+- 📫 How to reach me **tarekabdennadher89@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
