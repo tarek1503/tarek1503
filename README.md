@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/@tarekabdennadh1" target="blank"><img src="https://img.shields.io/twitter/follow/@tarekabdennadh1?logo=twitter&style=for-the-badge" alt="@tarekabdennadh1" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Blockchain**
+- 🌱 I’m currently learning **Angular, Blockchain**
 
-- 📫 How to reach me **tarekabdennadher89@gmail.com**
+- 📫 How to reach me **tarekabdennadherr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
